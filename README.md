@@ -1,4 +1,4 @@
-# Tutorial to Deploy the Data Analyst Assistant for Video Game Sales Using Amazon Bedrock Agents
+# A Tutorial on Deploying the Data Analyst Assistant for Video Game Sales Using Amazon Bedrock Agents
 
 This solution provides a Generative AI Application reference that is able to access structured data stored in a PostgreSQL database based on a question-answering assistant that generates SQL queries to obtain the necessary data to provide an answer in natural language.
 
